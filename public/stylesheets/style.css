@@ -1,0 +1,16 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    background-color: #565554;
+    color: #fefefe;
+}
+
+#secret {
+    background-color: #F6F5AE;
+    color: black;
+    padding: 15px;
+    border-radius: 20px;
+    width: 600px;
+}
+
+/*# sourceMappingURL=style.css.map */

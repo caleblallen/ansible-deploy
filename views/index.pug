@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  h1= title
+  p Hostname:
+    strong= hostname
+  #secret
+    p I've included a SECRET that is not contained within the git repo. It is added after the git clone by an Ansible task.
+    p
+      i Secret =
+      strong= secret
